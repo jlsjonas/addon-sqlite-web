@@ -1,9 +1,9 @@
 ---
-name: SQLite Web
+name: SQLite Web zigbee
 version: dev
-slug: sqlite-web
-description: Explore your SQLite database
-url: https://github.com/hassio-addons/addon-sqlite-web/tree/main/README.md
+slug: sqlite-web-zigbee
+description: Explore your zigbee SQLite database
+url: https://github.com/jlsjonas/addon-sqlite-web/tree/main/README.md
 ingress: true
 advanced: true
 panel_icon: mdi:database
