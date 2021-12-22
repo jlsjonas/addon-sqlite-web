@@ -7,7 +7,7 @@ declare -a options
 
 options+=(--host 127.0.0.1)
 options+=(--no-browser)
-options+=(-x "/config/home-assistant_v2.db")
+options+=(-x "/config/zigbee.db")
 
 bashio::log.info 'Starting SQLite Web...'
 
